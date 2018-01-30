@@ -1,5 +1,5 @@
-def sum_two(n)
-    return n+2
+def plus_two(num)
+    return num + 2
 end
 
-puts sum_two(3) 
+puts plus_two(3) 
